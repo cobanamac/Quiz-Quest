@@ -1,7 +1,7 @@
 # Quiz-Quest
 Music Quiz for the SNES
 
-Main game
+# Main game
 Quiz Quest is a music quiz game which is inspired from the Snes era....
 
 
