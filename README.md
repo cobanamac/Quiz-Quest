@@ -5,9 +5,10 @@
 <p>Quiz Quest is a music quiz game which is inspired from the Snes era....</p>
 
 <h2> Implementing </h2>
-<p>Hints costs exp.</p>
+<p>Using Hints costs Exp</p>
 <li>Listen to another song from the game(using exp)</li>
-  
+<p>Shop</p>
+
 <h2>Song Themes</h2>
   <li>Intro.</li>
   <li>In game.</li>
