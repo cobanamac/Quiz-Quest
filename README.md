@@ -17,7 +17,7 @@
 
 
 <h3>ver.1.0 - Norwegian</h3>
->p>its now up and running!</p>
+<p>its now up and running!</p>
 <li>For now there is only 2 songs.</li>
 <li>Press "Hør" and the song starts. Time wil change to Exp adn countdown starts.</li>
 <li>Type in the name of the song. First letter is uppercase in each word...for now</li>
