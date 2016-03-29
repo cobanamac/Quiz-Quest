@@ -16,8 +16,14 @@
   <li>The end.</li>
 
 
-<h3>ver.1.0 - Norwegian</h3>
+<h3>ver.2.0 - hybrid of Eng and Nor</h3>
 <p>its now up and running!</p>
-<li>For now there is only 2 songs.</li>
+<li>Now there is 7 songs.
+  <li>I have no premission to use the songs..no songs are added</li>
+</li>
 <li>Press "Hør" and the song starts. Time wil change to Exp and countdown starts.</li>
-<li>Type in the name of the song. First letter is uppercase in each word...for now</li>
+<li>Type in the name of the song, all text wil change to lowercase</li>
+<li>Hints
+  <li>Cost 100 exp, need 100 or more to use</li>
+  <li>saves your exp each turn<li>
+<li>
