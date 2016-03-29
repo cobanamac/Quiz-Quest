@@ -5,11 +5,7 @@
 <meta charset="UTF-8">
 
 <link rel="stylesheet" type="text/css" href="style/bootstrap.min.css">
-<link rel="stylesheet" type="text/css" href="style/custom.css">
-
-
-	
-	
+<link rel="stylesheet" type="text/css" href="style/custom.css">	
 </head>
 <body>
 
@@ -17,23 +13,27 @@
 
 <div class="container">
 	<div class="jumbotron">
-		<h1>Ready for some Snes Quiz?</h1><br>
-		<p>Vers.1.0 - 2 sanger totalt.
+		<h1>-- Quiz Quest --</h1><br>
+		<p>Vers.1.5 - 2 sanger totalt.
 					<li>Må være ordrett, dvs start med stor bokstav.</li>
 		   			<li>Hør = Hør sang. Sang vil slutte viss du har rett + du får et beskjed om dette.</li>
 		  			<li>Har du rett må du trykke på "Hør" for å spille av neste sang.</li>
 
 		</p>
-		<button type="button" id="song" onclick="play()">Hør</button>	<!-- button song -->
-		<input type="text" id="answer" placeholder="Gjett..." onkeydown="guess(event)">		<!-- input answer -->
-		<br><br><p id="hint">Hints?</p>
+		<input type="text" id="answer" placeholder="Gjett..." onkeydown="guess(event)" class="form-control"><br>		<!-- input answer -->
+		<button type="button" id="song" onclick="play()" class="btn btn-default">Hør</button>	<!-- button song -->
+		<button type="button" onclick="showMap()" class="btn btn-default">MAP</button>
+		<button type?="button" onclick="hints()" class="btn btn-default">Hint</button> 
+		<a href="map.html">MAP</a>	<!-- MAP -->
+		<br><br><p id="hint">Click "Hint" for help ;)</p>
 		<br><br><p id="utskrift"></p>
-		<p id="yourPoints">0 exp</p>
+		<p id="yourPoints">Total Exp</p>
 		<p id="clock">time</p>
 	</div>
 </div>
 
-<script src="custom.js" type="text/javascript"></script>
+<script src="js/custom.js" type="text/javascript"></script>
+<script src="js/worldMap.js" type="text/javascript"></script>
 
 
 </body>

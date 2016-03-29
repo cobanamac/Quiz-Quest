@@ -3,10 +3,26 @@
 	margin-top: 10%;
 }
 
+.jumbotron{
+		background-color:#4da6ff;
+}
 .jumbotron p {
 	font-size: 1em;
+	color:white;
+}
+.jumbotron li{
+	color:#004d99;
+
 }
 
 body{
 	background-color: #D8D8D8;
+}
+
+#song {
+	background-color: ;
+}
+
+.form-control{
+	width: 165px;
 }
