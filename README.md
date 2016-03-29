@@ -26,4 +26,4 @@
 <ul>Hints
   <li>Cost 100 exp, need 100 or more to use</li>
   <li>saves your exp each turn<li>
-<ul>
+</ul>
